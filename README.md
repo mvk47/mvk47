@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mvk47
+- 👋 Hi, I’m Vishnu
 - 👀 I’m interested in Python and MERN development
 - 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on development projects
